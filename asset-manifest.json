@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fundamental_react_marvel/static/css/main.356d1423.chunk.css",
+    "main.js": "/fundamental_react_marvel/static/js/main.1e69d965.chunk.js",
+    "main.js.map": "/fundamental_react_marvel/static/js/main.1e69d965.chunk.js.map",
+    "runtime-main.js": "/fundamental_react_marvel/static/js/runtime-main.bf0dbed0.js",
+    "runtime-main.js.map": "/fundamental_react_marvel/static/js/runtime-main.bf0dbed0.js.map",
+    "static/js/2.a26fdf47.chunk.js": "/fundamental_react_marvel/static/js/2.a26fdf47.chunk.js",
+    "static/js/2.a26fdf47.chunk.js.map": "/fundamental_react_marvel/static/js/2.a26fdf47.chunk.js.map",
+    "index.html": "/fundamental_react_marvel/index.html",
+    "static/css/main.356d1423.chunk.css.map": "/fundamental_react_marvel/static/css/main.356d1423.chunk.css.map",
+    "static/js/2.a26fdf47.chunk.js.LICENSE.txt": "/fundamental_react_marvel/static/js/2.a26fdf47.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/fundamental_react_marvel/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/fundamental_react_marvel/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/fundamental_react_marvel/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0dbed0.js",
+    "static/js/2.a26fdf47.chunk.js",
+    "static/css/main.356d1423.chunk.css",
+    "static/js/main.1e69d965.chunk.js"
+  ]
+}
