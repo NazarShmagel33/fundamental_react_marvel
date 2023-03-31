@@ -1,0 +1,1 @@
+import{R as r}from"./index.6ec43df1.js";var t="/assets/error.a00af8d8.gif";const e=()=>r.createElement("img",{style:{display:"block",width:"250px",height:"250px",objectFit:"contain",margin:"0 auto"},src:t,alt:"Error"});export{e as E};
